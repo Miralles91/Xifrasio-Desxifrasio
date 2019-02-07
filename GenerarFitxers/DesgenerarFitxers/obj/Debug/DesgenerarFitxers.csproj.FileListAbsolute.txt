@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\obj\Debug\DesgenerarFitxers.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\obj\Debug\DesgenerarFitxers.FrmDesxifasio.resources
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\obj\Debug\DesgenerarFitxers.Properties.Resources.resources
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\obj\Debug\DesgenerarFitxers.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\obj\Debug\DesgenerarFitxers.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\bin\Debug\DesgenerarFitxers.exe.config
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\bin\Debug\DesgenerarFitxers.exe
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\bin\Debug\DesgenerarFitxers.pdb
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\bin\Debug\GenerarFitxers.exe
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\bin\Debug\GenerarFitxers.pdb
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\bin\Debug\GenerarFitxers.exe.config
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\obj\Debug\DesgenerarFitxers.csproj.CopyComplete
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\obj\Debug\DesgenerarFitxers.exe
+C:\Users\admin\source\repos\GenerarFitxers\DesgenerarFitxers\obj\Debug\DesgenerarFitxers.pdb
